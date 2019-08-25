@@ -7,7 +7,7 @@
 Install this node module in the root of your Lamba function's directory.
 
 ```sh
-git clone joemccann/node-canvas-prebuilt-for-lambda
+git clone https://github.com/joemccann/node-canvas-prebuilt-for-lambda.git
 ```
 
 In the root of your Lambda function's directory, you need to replace the local version of `node-canvas` with the Amazon Linux AMI supported version.
